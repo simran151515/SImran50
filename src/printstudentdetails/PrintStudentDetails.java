@@ -8,6 +8,7 @@ package printstudentdetails;
  * store and print student details
  * view class - user interaction
  * @author srinivsi
+ simran and aanchal
  */
 public class PrintStudentDetails {
 
